@@ -5,7 +5,7 @@ Support for asciidoc/docbook features, specifically side notes, examples,
 admonitions and images. 
 
 - Jekyll
-- Theme https://pmarsceill.github.io/just-the-docs/
+- Theme: Tachyons.io 
 - Host: Netlify
 - jekyll-asciidoc gem
 - Asciidoctor Stylesheet Factory - https://asciidoctor.org/docs/produce-custom-themes-using-asciidoctor-stylesheet-factory/#applying-a-stylesheet-to-html
